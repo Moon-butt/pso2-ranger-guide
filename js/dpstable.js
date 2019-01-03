@@ -1,5 +1,5 @@
 $(document).ready(function() {
 	
-    $('#dpsTable').DataTable();
+    $('#dpsTable').DataTable().columns.adjust().draw();
 	
 } );
