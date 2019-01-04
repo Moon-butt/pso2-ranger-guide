@@ -1,0 +1,7 @@
+.tablesorter-pager .btn-group-sm .btn {
+    font-size: 1.2em; 
+}
+
+.tablesorter .tablesorter-filter-row .disabled {
+    display: none;
+}
